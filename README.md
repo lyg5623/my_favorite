@@ -8,3 +8,5 @@
 [AUC深入解析与应用](https://threadreaderapp.com/thread/1104134423673479169.html)
 
 [Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning](https://sebastianraschka.com/pdf/manuscripts/model-eval.pdf)
+# 深度学习模型
+[模型压缩相关文献集](https://github.com/chester256/Model-Compression-Papers)
