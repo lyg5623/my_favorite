@@ -10,3 +10,5 @@
 [Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning](https://sebastianraschka.com/pdf/manuscripts/model-eval.pdf)
 # 深度学习模型
 [模型压缩相关文献集](https://github.com/chester256/Model-Compression-Papers)
+# 标注工具
+[开源文本标记工具](https://github.com/chakki-works/doccano)
